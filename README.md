@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Denys Kyzym 👋
 
-<!--
-**kyzym/kyzym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- I'm a Software Engineer from [Your Country] 🚀. I have rich experience in web development, and I love open source. -->
 
-Here are some ideas to get you started:
+<!-- ![Profile views](https://gpvc.arturio.dev/[kyzym]) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzym&show_icons=true&theme=tokyonight)
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+
+## 🗂️ Highlight Projects
+
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+
+## 📬 Get in Touch
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourusername
+- E-mail: mail@example.com
+
+
