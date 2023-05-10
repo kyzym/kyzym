@@ -21,8 +21,8 @@
 
 ## 📬 Get in Touch
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-- E-mail: mail@example.com
+- GitHub: https://github.com/kyzym
+- LinkedIn: https://linkedin.com/in/denys-kyzym
+- E-mail: kyzym1@gmail.com
 
 
