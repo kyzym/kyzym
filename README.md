@@ -1,6 +1,6 @@
 # Hi there, I'm Denys Kyzym 👋
 
-I'm a budding Full-stack developer from Ukraine 🚀. I'm passionate about coding, and I love contributing to open source. 
+I'm a budding Full-stack developer from Ukraine 🚀. I'm passionate about coding. 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kyzym&layout=compact)
 
