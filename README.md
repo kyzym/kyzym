@@ -1,12 +1,19 @@
-# Hi there, I'm Denys Kyzym 👋
+# Hi there, I'm Denys Kyzym 👋 
 
-<!-- I'm a Software Engineer from [Your Country] 🚀. I have rich experience in web development, and I love open source. -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/[kyzym]) -->
+I'm a Full-stack from Ukraine 🚀. 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kyzym&layout=compact)
+
+
+
+
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzym&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzym&show_icons=true&theme=tokyonight) 
+
+
+
 
 ## 💼 Skills
 
@@ -60,8 +67,12 @@
 
 ## 📬 Get in Touch
 
-- GitHub: https://github.com/kyzym
-- LinkedIn: https://linkedin.com/in/denys-kyzym
-- E-mail: kyzym1@gmail.com
+[![Linkedin: denys-kyzym](https://img.shields.io/badge/-Denys%20Kyzym-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denys-kyzym/)](https://www.linkedin.com/in/denys-kyzym/)
+[![GitHub kyzym](https://img.shields.io/github/followers/kyzym?label=follow&style=social)](https://github.com/kyzym)
+[![Telegram: denys_kyzym](https://img.shields.io/badge/-Denys%20Kyzym-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/denys_kyzym/)](https://t.me/denys_kyzym/)
+
+
+
+
 
 
