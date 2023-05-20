@@ -16,8 +16,8 @@
 
 ## 🗂️ Highlight Projects
 
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [Filmoteka](https://kyzym.github.io/this-team/)
+- [Country-Finder](https://kyzym.github.io/country-finder/)
 
 ## 📬 Get in Touch
 
