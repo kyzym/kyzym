@@ -4,9 +4,12 @@ I'm a budding Full-stack developer from Ukraine 🚀. I'm passionate about codin
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kyzym&layout=compact)
 
-## 📊 GitHub Stats
+<!--
+## 📊 GitHub Stats 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzym&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-repo.vercel.app/api?username=kyzym&show_icons=true&theme=tokyonight)
+-->
+
 
 ## 💼 Skills
 
